@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "LinkHub",
+  "version": "1.0",
+  "description": "Save links with names and display them",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "16.jpeg",
+      "32": "32.jpeg",
+      "48": "48.jpeg"
+    }
+  }
+}
